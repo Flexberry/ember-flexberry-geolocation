@@ -1,6 +1,6 @@
-# Ember-flexberry-geolocation
+# Ember Flexberry Geolocation
 
-This README outlines the details of collaborating on this Ember addon.
+Ember Flexberry Geolocation Addon.
 
 ## Installation
 
