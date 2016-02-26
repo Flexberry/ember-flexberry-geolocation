@@ -1,0 +1,1 @@
+export { default } from 'ember-flexberry-geolocation/services/geolocation';
